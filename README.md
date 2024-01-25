@@ -9,7 +9,7 @@ Data format -	Raw images– (.jpg) Annotation Files – (.txt) in YOLO Format.
 
 Type of data - Images, Annotations.
 
-Data collection -	Road videos were collected using a GoPro7 camera, configured with Full HD resolution (1080p), mounted on a vehicle traveling on urban streets and roads. The recorded videos were converted into images using the FFmpeg software [1] to enable the traffic signs' annotation. All annotation text files have the same name as the image files, and these annotations were created using the LabelImg software [2] to label the objects of interest.
+Data collection -	Road videos were collected using a GoPro7 camera, configured with Full HD resolution (1080p), mounted on a vehicle traveling on urban streets and roads. The recorded videos were converted into images using the FFmpeg software to enable the traffic signs' annotation. All annotation text files have the same name as the image files, and these annotations were created using the LabelImg software to label the objects of interest.
 
 Data source location - City/Town/Region: States of Bahia and Rio Grande do Sul.
 
